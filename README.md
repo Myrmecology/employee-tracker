@@ -97,4 +97,4 @@ GitHub: https://github.com/Myrmecology/employee-tracker/edit/main/README.md
 This README should give users all the information they need to understand, set up, and use your Employee Tracker application. If you want to add or modify any details, feel free to do so!
 
 
-
+Thanks for stopping by, happy coding 
